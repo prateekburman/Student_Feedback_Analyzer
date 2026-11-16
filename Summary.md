@@ -4,7 +4,7 @@ Problem Statement Number: 96
 Project Title: Student Feedback Analyzer
 Programming Language: Python 3
 Libraries Used: Pandas, Matplotlib
-Concepts: Strings, Data Analysis, Frequency Analysis and Data Visualization
+Concepts: Strings, Data Analysis, Frequency Analysis and Data Visualizatio
 
 ## 1. Introduction
 
